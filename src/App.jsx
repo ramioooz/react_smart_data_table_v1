@@ -2,7 +2,7 @@ import { Routes, Route, BrowserRouter as Router } from "react-router-dom"
 import Home from "./pages/Home"
 import NotFound from "./pages/NotFound"
 import TablePage from "./pages/TablePage"
-import Navbar from "./context/Navbar"
+import Navbar from "./components/Navbar"
 
 function App() {
 
